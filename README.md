@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JAVA 17
 - 💞️ I’m looking to collaborate on anything that can teach me something productive
 - 📫 How to reach me :> Instagram ; wrath.in
-                      :> Gmail    ; srijanamanshankar@gmail.com
+                      
 
 
 <!---
